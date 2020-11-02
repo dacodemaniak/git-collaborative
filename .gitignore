@@ -1,0 +1,6 @@
+# Exclude all files or directory
+node_modules
+
+dist
+
+
