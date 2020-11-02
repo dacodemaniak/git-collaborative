@@ -2,9 +2,9 @@
 * Some rules
 **/
 :root {
-
+    --primary: #fefefe;
 }
 
 body {
-    
+    color: var(--primary);
 }
