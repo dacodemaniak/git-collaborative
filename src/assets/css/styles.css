@@ -1,4 +1,10 @@
 /*
 Pouet
 */
-body{}
+body{
+    width: auto;
+}
+h1{
+    width: 100%;
+}
+
