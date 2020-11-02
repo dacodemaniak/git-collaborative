@@ -1,0 +1,6 @@
+# Excluded files
+
+node_modules
+
+dist
+
