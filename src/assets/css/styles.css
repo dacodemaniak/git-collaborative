@@ -8,3 +8,23 @@
 body {
     color: var(--primary);
 }
+
+.h1Contact{
+    color: red;
+}
+form.form-contact {
+    display: table;
+}
+
+div.form-contact {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
