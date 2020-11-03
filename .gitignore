@@ -1,6 +1,6 @@
-# Exclude all files or directory
+#EXCLUDE ALL FILES OR DIRECTORY
 node_modules
-
 dist
-
-
+wwwroot
+log
+logs
