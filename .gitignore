@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 #EXCLUDE ALL FILES OR DIRECTORY
 node_modules
 dist
 wwwroot
 log
 logs
+=======
+# Exclude all files or directory
+node_modules
+
+dist
+
+
+>>>>>>> de416449b8dc9bee65416a64e6954dd54c7994ea
