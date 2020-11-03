@@ -1,10 +1,10 @@
-/*
-Pouet
-*/
-body{
-    width: auto;
-}
-h1{
-    width: 100%;
+/**
+* Some rules
+**/
+:root {
+    --primary: #fefefe;
 }
 
+body {
+    color: var(--primary);
+}

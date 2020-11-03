@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 # Excluded files
 
+=======
+# Exclude all files or directory
+>>>>>>> de416449b8dc9bee65416a64e6954dd54c7994ea
 node_modules
 
 dist
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> de416449b8dc9bee65416a64e6954dd54c7994ea
