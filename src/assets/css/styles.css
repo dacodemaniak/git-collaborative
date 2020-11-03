@@ -2,9 +2,14 @@
 * Some rules
 **/
 :root {
-    --primary: #fefefe;
+    --primary: rgba(128, 150, 150, 1);
 }
 
 body {
     color: var(--primary);
+}
+
+footer ul li a {
+    color: var(--primary);
+    text-decoration: none;
 }
